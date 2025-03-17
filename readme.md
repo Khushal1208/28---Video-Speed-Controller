@@ -14,7 +14,7 @@ Today, I built a **custom video speed controller** that allows users to **adjust
 ✅ **Dynamically updating `playbackRate`** for real-time speed control 🚀  
 ✅ **Modifying CSS properties dynamically** for smooth UI transitions ✨  
 
-🔗 **Live Demo:** [Check it out here!](#) (Upload your GitHub Pages link)  
+🔗 **Live Demo:** https://khushal1208.github.io/28---Video-Speed-Controller/
 
 ### 💡 **Real-World Applications:**  
 📌 **Online learning platforms** (adjusting lecture speed) 📚  
